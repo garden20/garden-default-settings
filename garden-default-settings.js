@@ -6,7 +6,7 @@
     } else {
         root.garden_default_settings = factory();
     }
-}(this, function (async, pouch, garden_views, url) {
+}(this, function () {
 
 return {
     frontpage : {

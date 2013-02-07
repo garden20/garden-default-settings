@@ -1,2 +1,2 @@
 production :
-	kanso install; kanso publish; jam publish; npm publish;
+	kanso install; kanso publish -f; jam publish -f; npm publish -f;
